@@ -31,6 +31,7 @@ class State:
             loaded_state = pickle.load(file)
         return loaded_state
 
+#TD(0) algo
 class TD:
     lam = 0.7
     gam = 1

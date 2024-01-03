@@ -1,6 +1,9 @@
 from classes import *
 from printing import *
 
+#example workflow to retrive data from last traning session
+
+
 map = np.empty((5, 5), dtype=object)
 # Creating State objects
 for i in range(5):
