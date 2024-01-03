@@ -1,12 +1,12 @@
 # RL Learning Environment
 
-A simple reinforcement learning environment with states, connections, and Temporal Difference (TD) learning algorithms (including TD(0) and TD(λ)).
+A simple reinforcement learning environment with states, connections, and Temporal Difference (TD) learning algorithms.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Examples] (#examples)
+- [Examples](#examples)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -20,7 +20,7 @@ This project provides a basic reinforcement learning environment where an agent 
 
 - States with rewards and termination conditions
 - State connections for agent movement
-- TD(0) and TD(λ) learning algorithms for value function updates
+- TD(0) learning algorithm for value function updates
 
 ## Examples
 
