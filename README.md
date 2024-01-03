@@ -6,13 +6,11 @@ A simple reinforcement learning environment with states, connections, and Tempor
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Examples] (#examples)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -23,6 +21,9 @@ This project provides a basic reinforcement learning environment where an agent 
 - States with rewards and termination conditions
 - State connections for agent movement
 - TD(0) and TD(λ) learning algorithms for value function updates
+
+## Examples
+
 
 ## Getting Started
 
@@ -42,11 +43,9 @@ Clone the repository to your local machine using the following command:
 
    ```bash
    git clone https://github.com/bharatmekala/simpleTDalgo.git
+   ```
 
 
 ### Usage
 
-```
 See main.py for example usage
-
-```
