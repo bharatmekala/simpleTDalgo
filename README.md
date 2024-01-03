@@ -30,7 +30,7 @@ Rewards Before Training
 
 Values at each state after training
 
-![image](https://github.com/bharatmekala/simpleTDalgo/assets/155010017/ef9948c2-72b9-4a49-9d30-52c1e7b71232)
+![image](https://github.com/bharatmekala/simpleTDalgo/assets/155010017/1bc89f7b-5442-435b-bd69-fe7777b38d54)
 
 ## Getting Started
 
