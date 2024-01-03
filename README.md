@@ -36,26 +36,17 @@ Ensure you have the following prerequisites installed:
 
 ### Installation
 
-Clone the repository:
+To get started with this project, follow these steps:
 
-```bash
-git clone https://github.com/your-username/rl-learning-environment.git
-cd rl-learning-environment
+Clone the repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/bharatmekala/simpleTDalgo.git
+
+
+### Usage
+
 ```
-
-### usage
-```
-from classes import State, TD
-
-# Creating a 5x5 array of State objects
-map_5x5 = ...
-
-# Initializing TD algorithm with lambda value
-TD_algo = TD(map_5x5, lam=0.7)
-
-# Running the TD algorithm (e.g., TD(λ))
-for _ in range(100000):
-    TD_algo.td_lambda_forward()
-    # Additional visualization or analysis if needed
+See main.py for example usage
 
 ```
