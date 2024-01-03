@@ -24,12 +24,11 @@ This project provides a basic reinforcement learning environment where an agent 
 
 ## Examples
 
+Rewards Before Training
 ![image](https://github.com/bharatmekala/simpleTDalgo/assets/155010017/b955e3cb-1c8f-4a2b-b558-5ad01a179e41)
 
+Values at each state after training
 ![image](https://github.com/bharatmekala/simpleTDalgo/assets/155010017/ef9948c2-72b9-4a49-9d30-52c1e7b71232)
-
-
-
 
 ## Getting Started
 
