@@ -32,7 +32,7 @@ Values at each state after training
 
 ![image](https://github.com/bharatmekala/simpleTDalgo/assets/155010017/1bc89f7b-5442-435b-bd69-fe7777b38d54)
 
-Examples Policy (Shows location of next best move)
+Example Policy (Shows location of next best move)
 
 ![image](https://github.com/bharatmekala/simpleTDalgo/assets/155010017/d98090cc-e887-4783-8289-99f4df506473)
 
