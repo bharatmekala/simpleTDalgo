@@ -24,6 +24,16 @@ for row in map_env:
 policy[map_env[0][0]] = None
 policy[map_env[4][4]] = None
 
+for row in map_env:
+    for state in row:
+        best_next = policy[state]
+        
+        if best_next:
+            print(best_next.location, end='\t')
+        else:
+            print(" ", end='\t')
+    print()
+
 
         
 

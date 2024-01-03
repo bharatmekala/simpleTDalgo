@@ -34,8 +34,8 @@ class State:
 #TD(0) algo
 class TD:
     lam = 0.7
-    gam = 1
-    alpha = 0.7
+    gam = 0.9
+    alpha = 0.3
     
     def __init__(self, map):
         self.map = map
