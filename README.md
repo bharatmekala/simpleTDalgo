@@ -60,4 +60,4 @@ Clone the repository to your local machine using the following command:
 
 ### Usage
 
-See main.py for example usage
+See main.py and retrive.py for example usage
